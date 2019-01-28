@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9ae7e69-413c-4a38-9298-167e91e8909f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/shopee_scraper$postgresql_test.coverage" NAME="postgresql_test Coverage Results" MODIFIED="1532106090069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shopee_scraper/spiders" />
+    <SUITE FILE_PATH="coverage/shopee_scraper$shopee_shops.coverage" NAME="shopee_shops Coverage Results" MODIFIED="1532106929215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shopee_scraper/spiders" />
+    <SUITE FILE_PATH="coverage/shopee_scraper$shopee.coverage" NAME="shopee Coverage Results" MODIFIED="1532104937280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shopee_scraper/spiders" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.29865575">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/scripts/crawlera.lua">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="25" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/items.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#153#166#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_20180720.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/pipelines.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3145">
+                  <caret line="185" column="23" selection-start-line="185" selection-start-column="23" selection-end-line="185" selection-end-column="23" />
+                  <folding>
+                    <marker date="1532106925684" expanded="true" signature="662:690" ph="DROP TABLE I... " />
+                    <marker date="1532106925684" expanded="true" signature="749:774" ph="DROP TABLE I... " />
+                    <marker date="1532106925684" expanded="true" signature="838:1337" ph="CREATE TABLE... Product" />
+                    <marker date="1532106925684" expanded="true" signature="1398:2421" ph="CREATE TABLE... Actors" />
+                    <marker date="1532106925684" expanded="true" signature="1398:2443" ph="CREATE TABLE... Actors" />
+                    <marker date="1532106925684" expanded="true" signature="3560:4160" ph="INSERT INTO Product... " />
+                    <marker date="1532106925684" expanded="true" signature="3560:4268" ph="INSERT INTO Product... " />
+                    <marker date="1532106925684" expanded="true" signature="6939:8301" ph="INSERT INTO Shop... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="986">
+                  <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/shopee_scraper/settings.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="447">
+                  <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>en</find>
+      <find>SPIDER_MIDDLEWARES</find>
+      <find>url_page</find>
+      <find>price</find>
+      <find>Craw</find>
+      <find>CRAWLERA_APIKEY</find>
+      <find>scraped</find>
+      <find>DUPEFILTER_CLASS</find>
+      <find>username</find>
+      <find>crawlera_user</find>
+      <find>CRAWLERA</find>
+      <find>basic_auth_header</find>
+      <find>endpoint</find>
+      <find>already</find>
+      <find>Scraped URL Page</find>
+      <find>&gt;&gt;&gt;</find>
+      <find>shopeeScraperItem</find>
+      <find>ShopeeSpider</find>
+      <find>splash</find>
+      <find>shop</find>
+      <find>okok</find>
+      <find>print</find>
+      <find>SPLASH_APIKEY</find>
+      <find>\</find>
+      <find>shopee</find>
+      <find>scrapy_spider</find>
+      <find>storeShopInfoInDb</find>
+      <find>last_active_time</find>
+      <find>log</find>
+      <find>shop_covers</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shopee_scraper/setup.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/scrapinghub.yml" />
+        <option value="$PROJECT_DIR$/shopee_scraper/spiders/shopee_20180719.log" />
+        <option value="$PROJECT_DIR$/shopee_scraper/items.py" />
+        <option value="$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops_20180629.log" />
+        <option value="$PROJECT_DIR$/shopee_scraper/spiders/shopee.py" />
+        <option value="$PROJECT_DIR$/shopee_scraper/spiders/postgresql_test.py" />
+        <option value="$PROJECT_DIR$/shopee_scraper/spiders/shopee_20180720.json" />
+        <option value="$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops.py" />
+        <option value="$PROJECT_DIR$/shopee_scraper/pipelines.py" />
+        <option value="$PROJECT_DIR$/shopee_scraper/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shopee_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopee_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopee_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopee_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="shopee_scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\8_Project\Progress\2018-07-09 Web Scraping Project for Ecommerce sites\Code\06_scrapy_crawlera_splash_client\shopee_scraper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\8_Project\Progress\2018-07-09 Web Scraping Project for Ecommerce sites\Code\06_scrapy_crawlera_splash_client\shopee_scraper\shopee_scraper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.shopee_shops">
+    <configuration name="postgresql_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="shopee_scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shopee_scraper/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopee_scraper/spiders/postgresql_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shopee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="shopee_scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shopee_scraper/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopee_scraper/spiders/shopee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shopee_shops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="shopee_scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shopee_scraper/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.shopee" />
+      <item itemvalue="Python.postgresql_test" />
+      <item itemvalue="Python.shopee_shops" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shopee_shops" />
+        <item itemvalue="Python.postgresql_test" />
+        <item itemvalue="Python.shopee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ae7e69-413c-4a38-9298-167e91e8909f" name="Default" comment="" />
+      <created>1531463402952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531463402952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098524764" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24625267" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35117772" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38329765" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>LOG_FILE_PRODUCT</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.read_json(LOG_FILE_PRODUCT)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>CRAWLERA_APIKEY</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.read_json(LOG_FILE_PRODUCT)[&quot;shopid&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.read_json(&quot;E:/8_Project/Progress/2018-07-09 Web Scraping Project for Ecommerce sites/Code/06_scrapy_crawlera_splash_client/shopee_scraper/shopee_scraper/spiders/shopee_20180719.json&quot;)[&quot;shopid&quot;].unique()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.read_json(&quot;E:/8_Project/Progress/2018-07-09 Web Scraping Project for Ecommerce sites/Code/06_scrapy_crawlera_splash_client/shopee_scraper/shopee_scraper/spiders/shopee_20180719.json&quot;)[&quot;shopid&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.read_json(&quot;E:/8_Project/Progress/2018-07-09 Web Scraping Project for Ecommerce sites/Code/06_scrapy_crawlera_splash_client/shopee_scraper/shopee_scraper/spiders/shopee_20180719.json&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>shopids = list(map(int, pd.read_json(&quot;E:/8_Project/Progress/2018-07-09 Web Scraping Project for Ecommerce sites/Code/06_scrapy_crawlera_splash_client/shopee_scraper/shopee_scraper/spiders/shopee_20180719.json&quot;)[&quot;shopid&quot;].unique()))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.read_json(&quot;E:/8_Project/Progress/2018-07-09 Web Scraping Project for Ecommerce sites/Code/06_scrapy_crawlera_splash_client/shopee_scraper/shopee_scraper/spiders/shopee_20180719.json&quot;, lines=True)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shopee_20180712.log" />
+    <entry file="file://$PROJECT_DIR$/shopee_20180713.log" />
+    <entry file="file://$PROJECT_DIR$/shopee_20180714.log" />
+    <entry file="file://$PROJECT_DIR$/shopee_20180718.log" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapinghub.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_20180719.log" />
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/tokopedia.py" />
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_20180719.json" />
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops_20180629.log" />
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="60" column="33" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/twisted/internet/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="516" selection-start-line="516" selection-end-line="516" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/postgresql_test.py" />
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_shop_20180720.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops_20180720.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/scripts/crawlera.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#153#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_20180720.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="185" column="23" selection-start-line="185" selection-start-column="23" selection-end-line="185" selection-end-column="23" />
+          <folding>
+            <marker date="1532106925684" expanded="true" signature="662:690" ph="DROP TABLE I... " />
+            <marker date="1532106925684" expanded="true" signature="749:774" ph="DROP TABLE I... " />
+            <marker date="1532106925684" expanded="true" signature="838:1337" ph="CREATE TABLE... Product" />
+            <marker date="1532106925684" expanded="true" signature="1398:2421" ph="CREATE TABLE... Actors" />
+            <marker date="1532106925684" expanded="true" signature="1398:2443" ph="CREATE TABLE... Actors" />
+            <marker date="1532106925684" expanded="true" signature="3560:4160" ph="INSERT INTO Product... " />
+            <marker date="1532106925684" expanded="true" signature="3560:4268" ph="INSERT INTO Product... " />
+            <marker date="1532106925684" expanded="true" signature="6939:8301" ph="INSERT INTO Shop... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/spiders/shopee_shops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopee_scraper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

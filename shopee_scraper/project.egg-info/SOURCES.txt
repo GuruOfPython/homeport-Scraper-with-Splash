@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+shopee_scraper/__init__.py
+shopee_scraper/items.py
+shopee_scraper/middlewares.py
+shopee_scraper/pipelines.py
+shopee_scraper/settings.py
+shopee_scraper/scripts/crawlera.lua
+shopee_scraper/spiders/__init__.py
+shopee_scraper/spiders/shopee.py
